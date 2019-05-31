@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.zl.pojo.LoginInfo;
 
-//ddddd
+//aaaaaa
 public interface LoginInfoMapper {
 	public List<LoginInfo> queryAll();
 }
